@@ -1,2 +1,2 @@
-# RoadToParis
-Project to analyze Brazil's historical run to Paris Olympics
+# Road To Paris
+Project to analyze Brazil's historical run to the Paris Olympics
